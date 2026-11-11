@@ -45,23 +45,23 @@ Each part feeds the next. A change in Part 1 (for example the Canadian focus) fl
 ```
 grc-project/
 ├── README.md                         (Part 1)
-├── 01-scope-and-context/             (Part 1)
-│   ├── company-profile.md
-│   ├── isms-scope.md
-│   └── services-and-data-flow.md
-├── 02-risk-assessment/               (Part 2)
-│   ├── risk-methodology.md
-│   ├── asset-register.xlsx
-│   ├── risk-register.xlsx
-│   └── risk-treatment-plan.md        (Part 3)
-├── 03-iso27001-mapping/              (Part 3)
+├── 01-Scope-and-Context/             (Part 1)
+│   ├── Company-Profile.md
+│   ├── ISMS-Scope.md
+│   └── Services-and-Data-Flow.md
+├── 02-Risk-Assessment/               (Part 2)
+│   ├── Risk-Methodology.md
+│   ├── Asset-Register.xlsx
+│   ├── Risk-Register.xlsx
+│   └── Risk-Treatment-plan.md        (Part 3)
+├── 03-ISO27001-Mapping/              (Part 3)
 │   ├── README.md
-│   ├── statement-of-applicability.xlsx / .md
-│   └── annexA-to-csf-crosswalk.xlsx / .md
-└── 04-nist-csf/                      (Part 3)
+│   ├── Statement-of-Applicability.xlsx / .md
+│   └── AnnexA-to-csf-Crosswalk.xlsx / .md
+└── 04-NIST-CSF/                      (Part 3)
     ├── README.md
-    ├── csf-profile.xlsx / .md
-    └── gap-analysis.md
+    ├── CSF-Profile.xlsx / .md
+    └── Gap-Analysis.md
 ```
 
 ## How to read this project

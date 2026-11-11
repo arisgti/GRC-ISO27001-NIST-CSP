@@ -1,13 +1,15 @@
-##OVERVIEW###
 
-• Built a GRC program for a fictional Canadian managed service provider (MSP) serving dental clinics, aligned to ISO/IEC 27001:2022 and NIST Cybersecurity Framework (CSF) 2.0.
-• Defined the ISMS scope, context and interested parties, and summarized Canadian legal requirements (PIPEDA, provincial health-information laws, Québec Law 25, breach-notification and record-keeping duties) that shape the program.
-• Classified information assets, including patient health data and privileged client credentials, and mapped data flows and cross-border hosting concerns.
-• Conducted an asset-based risk assessment using a 5x5 likelihood-impact methodology, producing a risk register of 14 risks, a 22-asset inventory and a heat map of risk before and after treatment.
-• Developed a risk treatment plan with 26 prioritized actions mapped to ISO 27001 Annex A controls and NIST CSF categories, with owners, target dates and evidence of completion.
-• Produced a Statement of Applicability covering all 93 ISO 27001:2022 Annex A controls (82 applicable, 11 excluded with justification), tied back to the risk assessment.
-• Built an ISO 27001 to NIST CSF 2.0 crosswalk, scored all 106 CSF subcategories for current and target profiles, and produced a gap analysis with a phased roadmap.
+## Overview
+This project demonstrates the development of a Governance, Risk and Compliance (GRC) program for a fictional Canadian Managed Service Provider (MSP) serving dental clinics.
 
+Key Deliverables
+* Built a GRC program aligned to ISO/IEC 27001:2022 and NIST Cybersecurity Framework (CSF) 2.0.
+* Defined the ISMS scope, context and interested parties, and summarized Canadian legal requirements (PIPEDA, provincial health-information laws, Québec Law 25, breach-notification and record-keeping duties) that shape the program.
+* Classified information assets, including patient health data and privileged client credentials, and mapped data flows and cross-border hosting concerns.
+* Conducted an asset-based risk assessment using a 5x5 likelihood-impact methodology, producing a risk register of 14 risks, a 22-asset inventory and a heat map of risk before and after treatment.
+*  Developed a risk treatment plan with 26 prioritized actions mapped to ISO 27001 Annex A controls and NIST CSF categories, with owners, target dates and evidence of completion.
+*  Produced a Statement of Applicability covering all 93 ISO 27001:2022 Annex A controls (82 applicable, 11 excluded with justification), tied back to the risk assessment.
+* Built an ISO 27001 to NIST CSF 2.0 crosswalk, scored all 106 CSF subcategories for current and target profiles, and produced a gap analysis with a phased roadmap.
 
 # IT@serve Company: GRC Personal Project
 

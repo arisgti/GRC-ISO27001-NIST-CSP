@@ -1,4 +1,15 @@
-# IT@serve Company: GRC Project
+##OVERVIEW###
+
+• Built a GRC program for a fictional Canadian managed service provider (MSP) serving dental clinics, aligned to ISO/IEC 27001:2022 and NIST Cybersecurity Framework (CSF) 2.0.
+• Defined the ISMS scope, context and interested parties, and summarized Canadian legal requirements (PIPEDA, provincial health-information laws, Québec Law 25, breach-notification and record-keeping duties) that shape the program.
+• Classified information assets, including patient health data and privileged client credentials, and mapped data flows and cross-border hosting concerns.
+• Conducted an asset-based risk assessment using a 5x5 likelihood-impact methodology, producing a risk register of 14 risks, a 22-asset inventory and a heat map of risk before and after treatment.
+• Developed a risk treatment plan with 26 prioritized actions mapped to ISO 27001 Annex A controls and NIST CSF categories, with owners, target dates and evidence of completion.
+• Produced a Statement of Applicability covering all 93 ISO 27001:2022 Annex A controls (82 applicable, 11 excluded with justification), tied back to the risk assessment.
+• Built an ISO 27001 to NIST CSF 2.0 crosswalk, scored all 106 CSF subcategories for current and target profiles, and produced a gap analysis with a phased roadmap.
+
+
+# IT@serve Company: GRC Personal Project
 
 > **Disclaimer:** IT@serve Company is a **fictional** Canadian organization created for learning and portfolio purposes. All names, numbers and scenarios are invented. Nothing here is legal or compliance advice.
 
@@ -17,9 +28,9 @@ The project is organized in three parts so each can be reviewed and corrected on
 
 | Part | Focus | Files | Folder | Status |
 |---|---|---|---|---|
-| **1** | Scope and context | `README.md`, company profile, ISMS scope, services and data flow | `01-scope-and-context/` | **Revised for Canada (v0.3)** |
-| **2** | Risk assessment | Risk methodology, risk register, asset register, risk treatment plan | `02-risk-assessment/` | To revise for Canada |
-| **3** | Controls, frameworks and gaps | Statement of Applicability, Annex A to CSF crosswalk, CSF profile, gap analysis, updated risk treatment plan | `03-iso27001-mapping/` and `04-nist-csf/` | To revise after Part 2 |
+| **1** | Scope and context | `README.md`, company profile, ISMS scope, services and data flow | `01-scope-and-context/` | **COMPLETED** |
+| **2** | Risk assessment | Risk methodology, risk register, asset register, risk treatment plan | `02-risk-assessment/` | **IN-Progress** |
+| **3** | Controls, frameworks and gaps | Statement of Applicability, Annex A to CSF crosswalk, CSF profile, gap analysis, updated risk treatment plan | `03-iso27001-mapping/` and `04-nist-csf/` |  **IN-Progress** |
 
 The risk treatment plan lives in Part 2 and is updated in Part 3, where the Statement of Applicability added actions TP-18 to TP-26.
 
@@ -40,7 +51,7 @@ grc-project/
 │   ├── risk-methodology.md
 │   ├── asset-register.xlsx
 │   ├── risk-register.xlsx
-│   └── risk-treatment-plan.md        (updated in Part 3)
+│   └── risk-treatment-plan.md        (Part 3)
 ├── 03-iso27001-mapping/              (Part 3)
 │   ├── README.md
 │   ├── statement-of-applicability.xlsx / .md
@@ -78,13 +89,6 @@ Spreadsheets (`.xlsx`) are the working files. GitHub does not preview them, so k
 - Scores, dates and costs are illustrative judgments, not measured data.
 - The Annex A to CSF mapping is my own analysis, not NIST's official mapping.
 
-## Revision history
-
-| Version | Date | Change |
-|---|---|---|
-| 0.1 | Nov 2026 | First draft of Part 1 |
-| 0.2 | Nov 2026 | Parts 2 and 3 built (risk assessment, SoA, crosswalk, CSF profile) |
-| **0.3** | **Nov 2026** | **Part 1 revised for a Canadian focus:** Canadian context and legal summary, chairs explained, objectives O5 and O6, data residency view, two new risk themes, CAD |
 
 ### Carry-forward to Part 2
 

@@ -83,4 +83,4 @@ IT@serve's objective O6 is to prefer Canadian hosting for client data. In practi
 11. **New:** Cross-border transfer or hosting of patient data outside Canada without the assessments or contract terms that clinics and provincial law require
 12. **New:** Missing or inconsistent provincial service-provider agreements (for example information manager or agent terms) with clinics
 
-Themes 11 and 12 are new in this revision and have no entry in the Part 2 risk register yet.
+

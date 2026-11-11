@@ -36,11 +36,13 @@
 | Topic | What it means for IT@serve |
 |---|---|
 | **Who is accountable** | The dental clinic is responsible for patient information. IT@serve acts as its service provider. Depending on the province this role has a legal name (for example "information manager" in Alberta, or "agent" or "electronic service provider" in Ontario) and usually requires a written agreement |
-| **Privacy laws** | Federal private-sector law (PIPEDA), provincial private-sector laws (for example in Alberta, British Columbia and Québec) and provincial health-information laws apply in different places. The legal summary is in `isms-scope.md`, section 4 |
+| **Privacy laws** | Federal private-sector law (PIPEDA), provincial private-sector laws (PIPA) (for example in Alberta, British Columbia and Québec) and provincial health-information laws apply in different places. The legal summary is in `isms-scope.md`, section 4 |
 | **Breach duties** | Privacy law requires clinics to assess breaches, report and notify when there is a real risk of significant harm, and keep breach records. IT@serve must tell clinics quickly and give them what they need |
 | **Professional regulators** | Each province has a dental regulatory college that sets standards for patient records and privacy. Clinics expect their IT provider to support those standards |
 | **Cyber guidance** | The Canadian Centre for Cyber Security publishes baseline controls for small and medium organizations that clinics and insurers recognize |
 | **Cross-border data** | Many tools are hosted by vendors outside Canada. Some provinces (notably Québec) require an assessment before personal information leaves the province |
+
+> ** "PIPEDA (Personal Information Protection and Electronic Documents Act)" and PIPA (Personal Information Protection Act)** 
 
 ## 4. Services
 
